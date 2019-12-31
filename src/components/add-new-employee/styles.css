@@ -1,0 +1,6 @@
+.noti {
+    position: fixed;
+    top: 50px;
+    width: 500px !important;
+    z-index: 10000000;
+}
